@@ -1,0 +1,48 @@
+.cf:after {
+ visibility: hidden;
+ display: block;
+ font-size: 0;
+ content: " ";
+ clear: both;
+ height: 0;
+}
+
+.social-media {
+	float: right;
+}
+
+.first-row{
+	position: relative;
+	height: 60px;
+}
+
+.home {
+	color:ff5912;
+}
+
+.navigation-menu {
+	left: 0;
+	display: inline-block;
+	word-spacing: 40px;
+}
+
+/* .navigation-menu {
+	margin-left: 40px;
+	left: 0;
+}
+
+.navigation-menu:first-child {
+	margin-left: 0;
+} */
+
+/* why it doesn't work?*/
+
+
+
+.logos-rightside {
+	float: right;
+}
+
+/* .home. .products, .hot-deals, .about, .contacts, .shopping-cart {
+	float: left;
+} */
